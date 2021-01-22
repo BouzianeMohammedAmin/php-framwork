@@ -1,0 +1,13 @@
+{
+    "name": "aminedev/my-php-app",
+    "authors": [{
+        "name": "Bouziane mohammed amin",
+        "email": "amineboos36@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/"
+        }
+    },
+    "require": {}
+}
